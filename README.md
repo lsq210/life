@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.com/lsq210/lsq210.github.io.svg?branch=master)](https://travis-ci.com/lsq210/lsq210.github.io)
-# 个人博客
+[![Build Status](https://travis-ci.com/lsq210/life.svg?branch=master)](https://travis-ci.com/lsq210/life)
+# 流水账
 
-链接：https://lsq210.github.io/
+链接：https://lsq210.github.io/life
 
 ### LICENSE
 
