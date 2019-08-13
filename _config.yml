@@ -17,9 +17,10 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child 
 
 
-url: http://yoursite.com 
+url: https://lsq210.github.io/life/
+baseurl: https://lsq210.github.io/
 
-root: /
+root: /life/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -83,7 +84,7 @@ pagination_dir: page
 
 ## Themes: https://hexo.io/themes/ 
 
-theme: archer
+theme: hollow
 exclude_generator:
 plugins:
   hexo-excerpt-block
