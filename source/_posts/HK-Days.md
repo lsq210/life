@@ -15,6 +15,4 @@ tags: 日常
 过海关的时候 由于不是旅游签 必须走人工通道
 在车站出口打车 
 司机热情地把我们行李装好
-车上放着 Lemon Tree  
-![entrance](entrance.jpg)  
-![1](1.jpg)
+车上放着 Lemon Tree
