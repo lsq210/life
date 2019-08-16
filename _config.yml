@@ -20,7 +20,7 @@ timezone:
 url: https://lsq210.github.io/life/
 baseurl: https://lsq210.github.io/
 
-root: /life
+root: /life/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
