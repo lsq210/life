@@ -89,7 +89,15 @@ exclude_generator:
 plugins:
   hexo-excerpt-block
 
-
+### feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  order_by: -date
+  icon: https://foreti.me/imgplace/2019/logo2.png
+  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html 
 
