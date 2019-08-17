@@ -3,7 +3,7 @@
 
 链接：https://lsq210.github.io/life
 
-主题 [hollow](https://github.com/zchen9/hexo-theme-hollow/)
+主题：[hollow](https://github.com/zchen9/hexo-theme-hollow/)
 
 ### LICENSE
 
