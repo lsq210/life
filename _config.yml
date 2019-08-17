@@ -17,7 +17,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child 
 
 
-url: https://lsq210.github.io/life/
+url: https://lsq210.github.io/life
 baseurl: https://lsq210.github.io/
 
 root: /life/
@@ -97,7 +97,7 @@ feed:
   hub:
   order_by: -date
   icon: https://foreti.me/imgplace/2019/logo2.png
-  
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html 
 
