@@ -8,7 +8,7 @@ tags: 旅行
 信仰欲望，花落草长
 
 <!--more-->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=486194128&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=486194128&auto=0&height=66"></iframe>
 
 ### 前往 武功山  
 本来前一晚商量好了从安福上山，结果在去吉安的路上被一个小姐姐劝退。和我们说萍乡的风景好，人也多更加安全。于是临时改变计划，决定从萍乡上山。  
