@@ -7,4 +7,23 @@ tags: 宝藏
 
 <!--more-->
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1377324900&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1377324900&auto=1&height=66"></iframe>  
+这两天连续看了两场演唱会，在同一个场馆。  
+欧阳娜娜确实很可爱，像一个被保护得很好，从小就满身光芒的小妹妹。
+娜娜的现场我就不做评价了，树洞还不错。  
+
+但谢春花实在是太吸引我了。
+
+独立、率真、可爱。  
+她会连着唱好多首歌，不插电在这个场馆里效果真的太 nice 了。 
+她会在歌的间隙和我们谈大一摔断腿的故事。  
+她能让全场安静地挥舞手机灯，也能让大家站着跟唱跳。  
+
+早些年听见她的歌，知道作词作曲演唱、专辑里的书法插图都是她一人完成后，我对花仔的印象就是「太有才华了」。之后就看见她发新歌，看见她出新专辑。一步一步踏实地走着。  
+今夜听春花的分享，歌的灵感来源，还有对歌迷的祝福。
+我觉得她真的值得，值得更好的舞台。  
+
+正如我们在台下喊的那样：  
+>我还想再听你的故事
+
+
