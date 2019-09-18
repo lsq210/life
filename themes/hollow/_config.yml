@@ -1,5 +1,5 @@
 # Default post title
-default_post_title: Halo
+default_post_title: Hello
 
 #Date Format
 date_format: YYYY 年 MM 月 DD 日
@@ -21,3 +21,5 @@ local_search: true
 # using viewer.js to view image
 # https://fengyuanchen.github.io/viewerjs/
 image_viewer: true
+
+rss: /atom.xml
