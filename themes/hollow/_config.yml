@@ -7,7 +7,7 @@ date_format: YYYY 年 MM 月 DD 日
 # Comment. 
 comments:
   # Disqus comment
-  disqus_shortname: 
+  disqus_shortname: true
 
 # Google Analytics Tracking ID
 google_analytics: 
@@ -22,4 +22,5 @@ local_search: true
 # https://fengyuanchen.github.io/viewerjs/
 image_viewer: true
 
+# rss 订阅
 rss: /atom.xml
