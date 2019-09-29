@@ -64,9 +64,10 @@ tags: 旅行
 晚上的篝火晚会很精彩。  
 一天的快乐都定格在烟花绽放的瞬间。  
 希望这样的时光还能再多一些。
-![烟花](https://raw.githubusercontent.com/lsq210/photo-album/master/life/Molan-Grassland/烟花.jpg)
+![小陈与烟花](https://raw.githubusercontent.com/lsq210/photo-album/master/life/Molan-Grassland/烟花.jpg)
 
 
 ***
 手账📝
 ![手账](https://raw.githubusercontent.com/lsq210/photo-album/master/life/Molan-Grassland/手账1.jpg)
+![手账](https://raw.githubusercontent.com/lsq210/photo-album/master/life/Molan-Grassland/手账2.jpg)
