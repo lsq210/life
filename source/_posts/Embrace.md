@@ -37,7 +37,7 @@ tags: 日常
 ……
 
 ---------
-<a href="https://i.y.qq.com/v8/playsong.html?songid=105670443&source=yqq#wechat_redirect" style="text-decoration:none">♪所以来吧</a>
+<a href="https://music.163.com/#/song?id=451991164" style="text-decoration:none">♪所以来吧</a>
 
 按时吃饭，认真听课。
 科研多请教师兄师姐，
