@@ -14,12 +14,12 @@ tags: 日常
 高铁 武汉->深圳->香港西九龙  
 过海关的时候 由于不是旅游签 必须走人工通道
 在车站出口打车  
-![Station](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/entrance.jpg)  
+![Station](https://lsq210.github.io/photo-album/life/HK-Days/entrance.jpg)  
 司机热情地把我们行李装好  
 车上放着 Lemon Tree  
 心情也像吹着口哨 
 周围的一切都好「港」哦~
-![Taxi](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/taxi.jpg)
+![Taxi](https://lsq210.github.io/photo-album//life/HK-Days/taxi.jpg)
 此处插播一则坏消息🙃
 >后来和同学交谈才知道，当时被宰了。
 司机收了我们150港币，然而其他同学同样从西九龙到宿舍，只花了60港币。
@@ -27,7 +27,7 @@ tags: 日常
 
 ### 第一周 📆
 旁听了 ICUI 会议（啥也听不懂？）
-![FirstWeek](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/start.jpg)   
+![FirstWeek](https://lsq210.github.io/photo-album/life/HK-Days/start.jpg)   
 物价好贵  食堂一顿饭30港币  
 英语好难  每天靠着谷歌翻译  
 想吃蔬菜  顿顿都是叉烧牛扒  
@@ -42,7 +42,7 @@ tags: 日常
 恨不得天天泡在里面  
 披上一件外套 挑一个靠墙的位置  
 学累了还可以看看窗外 川流不息闪烁着的街道  
-![Library](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/week2.jpg)
+![Library](https://lsq210.github.io/photo-album/life/HK-Days/week2.jpg)
 Lab 天天有 今晚格外难   
 quiz 几乎一周一次 每次都在挑战我的极限  
 Group project 更是头秃  
@@ -54,7 +54,7 @@ Andriod Studio 过于致命
 至今都没办法想象 
 一个晚上 + 一个上午 就复习完了 *Spatial Big Data Analysis*  
 把自己给厉害坏了（叉腰
-![StudyHard](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/hardwork.jpg)  
+![StudyHard](https://lsq210.github.io/photo-album/life/HK-Days/hardwork.jpg)  
 ### 出去走走 🎠
 #### Disney
 香港迪士尼真的好小哦~  
@@ -65,7 +65,7 @@ Andriod Studio 过于致命
 也恨自己不够有钱买发箍hhhh  
 最最最最最**后悔**的是——
 没有拥有小熊维尼的抱抱（暴风哭泣  
-![Disney](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/disney.jpg)  
+![Disney](https://lsq210.github.io/photo-album/life/HK-Days/disney.jpg)  
 此处插播一则迪士尼游览提醒💸
 >如果想拥有「发箍」「可爱包包」的小公主👸 建议在淘宝或其他地方**提前**买好。  
 因为里面真的挺贵的，发箍都是 138港币+。  
@@ -81,7 +81,7 @@ Andriod Studio 过于致命
 * 地图导航错误 却正好经过路环岛郊野公园 见到了大熊猫🐼
 * 路环岛偶然开启 Secret Menu
 * 遇到好心人指点 顺利搭上直达巴士回港口  
-![MACON](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/macao.jpg)  
+![MACON](https://lsq210.github.io/photo-album/life/HK-Days/macao.jpg)  
 
 #### Harry Potter
 最后一天 考完试暴雨  
@@ -90,7 +90,7 @@ Andriod Studio 过于致命
 试穿了巫师的袍子 挥挥魔杖  
 和门口的斯内普教授合影  
 呜呜呜有生之年一定要去一次哈利波特影城！  
-![HarryPotter](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/HarryPotter.jpg)  
+![HarryPotter](https://lsq210.github.io/photo-album/life/HK-Days/HarryPotter.jpg)  
 
 #### Hot Pot
 晚上这一餐自助  
@@ -100,7 +100,7 @@ Andriod Studio 过于致命
 真的太快乐了  
 撑到晚上三点多（其实在收拾行李  
 如果还有机会去香港 一定要再去吃一次！！ 
-![HotPot](https://raw.githubusercontent.com/lsq210/photo-album/master/life/HK-Days/HotPot.jpg)  
+![HotPot](https://lsq210.github.io/photo-album/life/HK-Days/HotPot.jpg)  
 
 ### 再见啦 👋
 退学生卡的时候  

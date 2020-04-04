@@ -82,14 +82,14 @@ oh, no! 终究还是没逃脱旅游时排队等待的命运😭
 建议配合<a href="https://i.y.qq.com/v8/playsong.html?songid=105670443&source=yqq#wechat_redirect" style="text-decoration:none">♪美若黎明</a>食用~
 早上四点就被阿黄叫起来。帐篷外已经围满了等待日出的人。  
 显然这个地方已经容不下我们了，于是决定去金顶。还好，白鹤峰离金顶不是很远，几步路的功夫就到了。周围都是裹着棉被、披着羽绒服的人，而坚强的我只穿了一件卫衣。  
-![云海](https://raw.githubusercontent.com/lsq210/photo-album/master/life/See-stars-with-me/sun.jpg)![与太阳的合影](https://raw.githubusercontent.com/lsq210/photo-album/master/life/See-stars-with-me/sun-and-me.jpg)
+![云海](https://lsq210.github.io/photo-album/life/See-stars-with-me/sun.jpg)
 
 ### 不就是徒步下山嘛  
 为了去玻璃栈道，绕了长长的路下山。结果还是走错了...
 下山的路实在是太难了。中庵索道由于电力设备故障临时停了，不知道啥时候能修好，为了赶车，只能徒步下山了。体验了膝盖不能弯曲的痛苦，下到最后不能走，只能一口气往下冲。  
 一万多个阶梯，腿完全废掉。回家之后瘸了一星期。  
 不过也算是徒步下过武功山的女中豪杰了💪  
-![手账](https://raw.githubusercontent.com/lsq210/photo-album/master/life/See-stars-with-me/note.jpg)
+![手账](https://lsq210.github.io/photo-album/life/See-stars-with-me/note.jpg)
 
 ### 回家
 回去的路上也是各种极限操作。  
