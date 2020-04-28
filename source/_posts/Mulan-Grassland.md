@@ -1,14 +1,12 @@
 ---
-title: 木兰草原<br>一日游
+title: 木兰草原
 date: 2019-09-15 20:51:37
 tags: 旅行
 ---
->和暖的阳光内  
-我们来到郊外  
-像不同的河水  
-融成一片大海  
+去秋游啦 
 
 <!--more-->
+**********
 
 中秋假期，武汉小分队出动~   
 江司机带着一车人开启自驾游🚗  
@@ -69,5 +67,4 @@ tags: 旅行
 
 ***
 手账📝
-![手账](https://lsq210.github.io/photo-album/life/Molan-Grassland/手账1.jpg)
-![手账](https://lsq210.github.io/photo-album/life/Molan-Grassland/手账2.jpg)
+![手账](https://lsq210.github.io/photo-album/life/Molan-Grassland/手账1.jpg)![手账](https://lsq210.github.io/photo-album/life/Molan-Grassland/手账2.jpg)
